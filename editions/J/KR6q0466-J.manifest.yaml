@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0466_000-J.yaml, hash: 'sha256:3ee10f9efd4aa6197f4ea7099c8210032a182e84e8e850713f9f26b83d0638e8'}
+  - {seq: 0, filename: KR6q0466_000-J.yaml, hash: 'sha256:aa241e2c68cf001e5ff37df6cfdd71f959356efafda255be6763e56a790efda5'}
   - {seq: 1, filename: KR6q0466_001-J.yaml, hash: 'sha256:c3914fd0f550c169920fe5fa874a59191a5a7956a75393ae13ea14f3f67dd538'}
   - {seq: 2, filename: KR6q0466_002-J.yaml, hash: 'sha256:93649c8e16203ba60bd18473202fb77d113e920dcfdf36fdab2a14c249d8997a'}
   - {seq: 3, filename: KR6q0466_003-J.yaml, hash: 'sha256:e161009e89c57f8afaf5290d364945d8ee27ef1cc4fb659b14517de30c508972'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6q0466_007-J.yaml, hash: 'sha256:6239cec160ee1d274ac1db01aacdc9d53ab8556536efcf02239b4179cec23bc8'}
   - {seq: 8, filename: KR6q0466_008-J.yaml, hash: 'sha256:febc9204f13e9ecc7535b3c54e36a0f1c57721f76bd5b74d828e5cdfebd1edbd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0466_000-J.markers.yaml, hash: 'sha256:2426beadf23fc28d4e0fa6370962bd0e95d8958d9ea632359a0a08f2e595af9b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0466_000-J.markers.yaml, hash: 'sha256:4d22fcec8f3d467d7858ac31dbe8b7eee9d601a30142c091465139f0058d2488'}
   - {seq: 1, role: markers, filename: assets/KR6q0466_001-J.markers.yaml, hash: 'sha256:a546f3fa46f1c581adfca8286ee0306a3fe595763c526db2ce0caef4198023d0'}
   - {seq: 2, role: markers, filename: assets/KR6q0466_002-J.markers.yaml, hash: 'sha256:0cbd52b0c58c8a0e984aa6c16ddeaf77baccf9c7144269bffd053062fcacb994'}
   - {seq: 3, role: markers, filename: assets/KR6q0466_003-J.markers.yaml, hash: 'sha256:5db91d68d947e34bb87f47920f026e465b0767c42dc04a3ef377ea8a3f4dd77e'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 龔鼎孳序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-3
     span:
-    - front
+    - body
     - 816
     - 816
   label: 李仙根序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-4
     span:
-    - front
+    - body
     - 1231
     - 1231
   label: 俞遜思園序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-5
     span:
-    - front
+    - body
     - 1687
     - 1687
   label: 錢光繡聖月氏序
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0466_J_000-mulu-6
     span:
-    - front
+    - body
     - 2258
     - 2258
   label: 目錄
@@ -4599,4 +4599,4 @@ table_of_contents:
   label: 宗派偈
   type: mulu
   level: 1
-hash: sha256:a84f43b4cbc4bf3f245593b8291a9855e93581894786c868d5d949476606a3b3
+hash: sha256:ca17369db05b1d52506bcb1cdee9d8e9c3f1a8b2be28d7f90186482dfcacb3bf
